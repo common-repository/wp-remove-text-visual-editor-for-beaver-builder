@@ -1,0 +1,14 @@
+/*
+ * Wp Remove Text Editor
+ */
+
+.fl-builder-admin .wp-editor-container {
+    display: none;
+}
+.fl-builder-admin .fl-builder-admin-tabs { 
+    display: none;
+}
+.fl-builder-admin .fl-builder-admin-ui{
+    display: block!important;
+}
+.wp-editor-expand { display:none!important; }
